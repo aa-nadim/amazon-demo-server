@@ -1,6 +1,6 @@
 # ema-john-server
 
-live == https://calm-shore-14421.herokuapp.com
+live == https://evening-shelf-32297.herokuapp.com/
 
 
-or == https://calm-shore-14421.herokuapp.com/products
+or == https://evening-shelf-32297.herokuapp.com/products
